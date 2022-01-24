@@ -8,4 +8,4 @@ Cualquier ayuda siempre se agradecerá.
 
 ## Futuro de la aplicación
 Como se puede apreciar en la siguiente imagen:
-<img src="ttps://user-images.githubusercontent.com/94826968/150876434-1ca550cc-2aa2-44e2-a20b-c5d2a35cf2ac.jpg" width=25% height=25%>
+<img src="ttps://user-images.githubusercontent.com/94826968/150876434-1ca550cc-2aa2-44e2-a20b-c5d2a35cf2ac.jpg" width=25% height=25%/>
