@@ -13,6 +13,6 @@ Como se puede apreciar, en la siguiente imagen, la aplicación está en una fase
 </p>
 <br>
 Las proximas versiones tendrán varias mejoras como por ejemplo:
-⋅⋅* Prioridades de las tareas:
-⋅⋅⋅Queriendo decir esto que se clasificarán según la importancia de estas. Una forma de clasificarlas será por el color que tengan.
-⋅⋅* Actualización de la interfaz, así como la optimización de esta.
+* Prioridades de las tareas:
+    * Queriendo decir esto que se clasificarán según la importancia de estas. Una forma de clasificarlas será por el color que tengan.
+* Actualización de la interfaz, así como la optimización de esta.
