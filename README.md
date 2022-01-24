@@ -11,8 +11,9 @@ Como se puede apreciar, en la siguiente imagen, la aplicación está en una fase
 <p align="center">
 <img src="https://user-images.githubusercontent.com/94826968/150876434-1ca550cc-2aa2-44e2-a20b-c5d2a35cf2ac.jpg" width=35% height=35%/>
 </p>
-<br>
+
 Las proximas versiones tendrán varias mejoras como por ejemplo:
 * Prioridades de las tareas:
     * Queriendo decir esto que se clasificarán según la importancia de estas. Una forma de clasificarlas será por el color que tengan.
 * Actualización de la interfaz, así como la optimización de esta.
+* Incluir una base de datos o sistema de almacenamiento para las tareas.
